@@ -1,3 +1,13 @@
 /.idea/
 /.claude/
 /.codex/
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/.pub/
+/build/
+/coverage/
+/.metadata
+flutter_web_server.*.log
+*.iml
